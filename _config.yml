@@ -6,7 +6,7 @@ plugins:
 exclude:
   - README.md
 name: ""
-title: "RESUME OF Baala Sangar B.S" # Replace "[Your Name]" with your first and last name.
+title: "" # Replace "[Your Name]" with your first and last name.
 description: ""
 github:
   is_project_page: false
